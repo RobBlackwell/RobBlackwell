@@ -10,7 +10,7 @@ models](https://www.turing.ac.uk/research/research-projects/understanding-capabi
 with a particular interest in common sense reasoning, and qualitative
 spatial and temporal reasoning.
 
-[Homepage](https://www.robblackwell.com).
+[Homepage](http://www.robblackwell.com).
 
 [Alan Turing Institute](https://www.turing.ac.uk/people/robert-e-blackwell).
 
